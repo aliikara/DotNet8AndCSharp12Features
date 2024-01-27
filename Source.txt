@@ -1,0 +1,2 @@
+https://medium.com/devopsturkiye/net-core-c-12-ve-net-8deki-baz%C4%B1-yeni-%C3%B6zellikler-d4e76c113662
+https://github.com/henriquesd/DotNet8Examples

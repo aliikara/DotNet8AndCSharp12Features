@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\bin\Debug\net8.0\DotNet8AndCSharp12Features.exe
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\bin\Debug\net8.0\DotNet8AndCSharp12Features.deps.json
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\bin\Debug\net8.0\DotNet8AndCSharp12Features.runtimeconfig.json
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\bin\Debug\net8.0\DotNet8AndCSharp12Features.dll
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\bin\Debug\net8.0\DotNet8AndCSharp12Features.pdb
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\obj\Debug\net8.0\DotNet8AndCSharp12Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\obj\Debug\net8.0\DotNet8AndCSharp12Features.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\obj\Debug\net8.0\DotNet8AndCSharp12Features.AssemblyInfo.cs
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\obj\Debug\net8.0\DotNet8AndCSharp12Features.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\obj\Debug\net8.0\DotNet8AndCSharp12Features.dll
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\obj\Debug\net8.0\refint\DotNet8AndCSharp12Features.dll
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\obj\Debug\net8.0\DotNet8AndCSharp12Features.pdb
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\obj\Debug\net8.0\DotNet8AndCSharp12Features.genruntimeconfig.cache
+C:\Users\USER\Desktop\DotNet8AndCSharp12Features\obj\Debug\net8.0\ref\DotNet8AndCSharp12Features.dll

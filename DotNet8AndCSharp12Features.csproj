@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <InterceptorsPreviewNamespaces>$(InterceptorsPreviewNamespaces);DotNet8AndCSharp12Features</InterceptorsPreviewNamespaces>
+  </PropertyGroup>
+	<PropertyGroup>
+		<NoWarn>Test002</NoWarn>
+	</PropertyGroup>
+
+</Project>
